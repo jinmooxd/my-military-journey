@@ -1,0 +1,16 @@
+Meal,Food,Quantity,Calories,Protein
+Breakfast,Rice,3,90,0.9
+Breakfast,Protein,1,321.4,24.6
+Breakfast,Soup,0,0,0
+Breakfast,Snack,0,0,0
+Lunch,Rice,3,90,0.9
+Lunch,Protein,1,321.4,24.6
+Lunch,Soup,0,0,0
+Lunch,Snack,0,0,0
+Dinner,Rice,3,90,0.9
+Dinner,Protein,1,321.4,24.6
+Dinner,Soup,0,0,0
+Dinner,Snack,0,0,0
+Supplement,Protein,1,142.665,29.2
+Supplement,ChickenBreast,2,240,50
+Analysis,N/A,N/A,1616.865,155.7
