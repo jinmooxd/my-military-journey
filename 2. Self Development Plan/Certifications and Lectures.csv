@@ -1,0 +1,19 @@
+Area,CertName,SpecificationAcademia,Difficulty
+Finance,AFPK,PrivateBanking,2
+Finance,매경테스트,Econ,2
+Finance,테셋(TESAT),Econ,1
+Finance,투자자산운용사,AssetManagement,2
+Finance,금융투자분석사,Investment Banking,2
+Finance,신용분석사,Investment Banking,2
+Finance,CRA,Investment Banking,2
+Finance,CFA,FinancialAnalysis,3
+Finance,국제 FRM,InernationalRiskManagement,3
+Finance,국내 FRM,KoreaRiskManagement,1
+Finance,외화전문역 1급,Forex,0
+Finance,은행FP,FinancialPlanning,0
+Finance,은행텔러,Labor,0
+Computer,컴활1,DatabasesArchitecture,2
+Computer,컴활2,ExcelWordWindows,0
+Computer,ITQ,ExcelWordWindows,0
+Computer,GTQ,PhotoshopGraphics,0
+Language,무역영어,English,-1
