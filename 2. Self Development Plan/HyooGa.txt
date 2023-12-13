@@ -17,3 +17,10 @@ Submission Details:
 5. 성명
 6. 연락처
 7. 응모작 (포스터) 제목
+
+Inspiration:
+1. https://selinc.com/solutions/sfci/cybersecurity-posters/
+2. USB: Change the Rod into a USB Connection (https://images.contentstack.io/v3/assets/bltea08f3d94a418a1b/bltba70489283c6833d/636ad875f1b38e69c1a2bef4/solutions_CybersecurityPoster_04.png) (https://selinc.com/v3/assets/bltea08f3d94a418a1b/blt372834b085880a3a/636ad8751eced80972fa18bc/solutions_CybersecurityPoster_42.png?width=1080&quality=75&auto=webp&disable=upscale) (https://selinc.com/v3/assets/bltea08f3d94a418a1b/blt9670a5f30d466daa/636ad87509f8aa109c3e5d57/solutions_CybersecurityPoster_43.png?width=1080&quality=75&auto=webp&disable=upscale)
+
+
+Use figma
