@@ -6,4 +6,5 @@ I'm currently on a two-year leave of absence to serve in the Korean military. I'
 ## Military Stats:
 - Graduated basic training with honors, placing 10/232 students / aspiring soldiers
 - Received additional training on Close Quarters Combat (CQB) and Individual Combat Training
+- Created an internal software to streamline handling classified documents and tracking brigade materials
 
